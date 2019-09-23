@@ -1,0 +1,1 @@
+C:\GitHub\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP.UWP\App01_consultarCEP.UWP.csproj;x86

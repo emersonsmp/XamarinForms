@@ -1,0 +1,24 @@
+C:\GitHub\Xamarin-2018\Seção 05\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\bin\Debug\netstandard2.0\App01_consultarCEP.deps.json
+C:\GitHub\Xamarin-2018\Seção 05\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\bin\Debug\netstandard2.0\App01_consultarCEP.dll
+C:\GitHub\Xamarin-2018\Seção 05\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\obj\Debug\netstandard2.0\App01_consultarCEP.csprojAssemblyReference.cache
+C:\GitHub\Xamarin-2018\Seção 05\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\Xamarin-2018\Seção 05\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\Xamarin-2018\Seção 05\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\obj\Debug\netstandard2.0\App01_consultarCEP.csproj.CoreCompileInputs.cache
+C:\GitHub\Xamarin-2018\Seção 05\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\obj\Debug\netstandard2.0\App01_consultarCEP.AssemblyInfoInputs.cache
+C:\GitHub\Xamarin-2018\Seção 05\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\obj\Debug\netstandard2.0\App01_consultarCEP.AssemblyInfo.cs
+C:\GitHub\Xamarin-2018\Seção 05\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\bin\Debug\netstandard2.0\App01_consultarCEP.pdb
+C:\GitHub\Xamarin-2018\Seção 05\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\Xamarin-2018\Seção 05\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\obj\Debug\netstandard2.0\App01_consultarCEP.dll
+C:\GitHub\Xamarin-2018\Seção 05\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\obj\Debug\netstandard2.0\App01_consultarCEP.pdb
+C:\GitHub\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\bin\Debug\netstandard2.0\App01_consultarCEP.deps.json
+C:\GitHub\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\bin\Debug\netstandard2.0\App01_consultarCEP.dll
+C:\GitHub\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\bin\Debug\netstandard2.0\App01_consultarCEP.pdb
+C:\GitHub\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\obj\Debug\netstandard2.0\App01_consultarCEP.csprojAssemblyReference.cache
+C:\GitHub\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\obj\Debug\netstandard2.0\App01_consultarCEP.csproj.CoreCompileInputs.cache
+C:\GitHub\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\obj\Debug\netstandard2.0\App01_consultarCEP.AssemblyInfoInputs.cache
+C:\GitHub\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\obj\Debug\netstandard2.0\App01_consultarCEP.AssemblyInfo.cs
+C:\GitHub\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\obj\Debug\netstandard2.0\App01_consultarCEP.dll
+C:\GitHub\App01_consultarCEP\App01_consultarCEP\App01_consultarCEP\obj\Debug\netstandard2.0\App01_consultarCEP.pdb
